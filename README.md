@@ -13,7 +13,7 @@ Task Tracking app to practice basic React component creation and methodologies.
 
 - Practice app currently is front-end only. Exploring options to build backend to store data indefinitely.
 
-💡 Learning moment:
+## 💡 Learning moment:
 
 - States get passed down from App() to components, while actions get passed up from components to App().
 - Props can be set as default in respective component, so it does not have to be added as prop in component under App()
@@ -32,7 +32,7 @@ Header.propTypes = {
 };
 ```
 
-- 'VS Code extension ES7 React/Redux/GraphQL/React-Native snippets' save time!
+- 'VS Code extension ES7 React/Redux/GraphQL/React-Native snippets' save time! 😅
 
 `rafce` snippet in new component file produces:
 
